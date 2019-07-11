@@ -5,13 +5,13 @@ int main(){
     cout<<"enter the number";
     cin>>Num;
     if(Num>0){
-        cout<<"positive";
+        cout<<"Positive";
     }
     else{
-        cout<<"negative";
+        cout<<"Negative";
     }
     else if(Num==0){
-        cout<<"zero"
+        cout<<"Zero"
     };
     return 0;
 }
