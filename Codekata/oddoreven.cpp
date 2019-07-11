@@ -2,7 +2,7 @@
 using namespace std;
 int Num;
 int main(){
-    cout<<"enter the number";
+   
     cin>>Num;
     if(Num>0){
         cout<<"Positive";
