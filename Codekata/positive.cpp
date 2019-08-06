@@ -10,7 +10,7 @@ int main(){
         cout<<"Zero";
     }
     else{
-        cout<<"negative";
+        cout<<"Negative";
     }
    
     return 0;
