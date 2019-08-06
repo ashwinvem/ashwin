@@ -1,13 +1,18 @@
 #include<iostream>
 using namespace std;
-int num;
+int Num;
 int main(){
-    cin>>num;
-    if(num<0){
-    cout<<"negative";
-    }
-    else{
+    cin>>Num;
+    if(Num>0){
         cout<<"positive";
     }
+     else if(Num==0){
+        cout<<"zero";
+    }
+    else{
+        cout<<"negative";
+    }
+   
     return 0;
 }
+
