@@ -31,7 +31,7 @@ int main(){
         }
     }
     else{
-        cout << "invalid";
+        cout << "inavalid"
     }
     return 0;
 }
