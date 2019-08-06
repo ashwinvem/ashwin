@@ -4,10 +4,10 @@ int Num;
 int main(){
     cin>>Num;
     if(Num>0){
-        cout<<"positive";
+        cout<<"Positive";
     }
      else if(Num==0){
-        cout<<"zero";
+        cout<<"Zero";
     }
     else{
         cout<<"negative";
